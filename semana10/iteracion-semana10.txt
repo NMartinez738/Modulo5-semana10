@@ -1,0 +1,16 @@
+¿Qué 2 tareas del backlog harías primero?
+1. Como ciudadano quiero registrar una incidencia para dejar evidencia del caso.  
+2. Como coordinador quiero recibir una alerta en Telegram para revisar un nuevo reporte.  
+
+¿Por qué son las más importantes?
+Son las más importantes porque garantizan que el sistema tenga un flujo mínimo viable y cumpla su propósito comunitario:
+Registrar incidencias es la base de todo. Si los ciudadanos no pueden dejar evidencia de los problemas, no existe información
+que gestionar ni seguimiento que hacer. Es el punto de partida para que la veeduría funcione.
+Recibir alertas en Telegram asegura que los coordinadores se enteren de inmediato cuando surge un nuevo reporte. Esto permite 
+reaccionar rápido, organizar respuestas y mantener la confianza de la comunidad en que sus reportes son atendidos.  
+
+¿Qué significa para ti que una tarea esté “terminada”?
+
+1. Funciona correctamente según lo esperado.  
+2. Fue probada y validada por el equipo.  
+3. Quedó registrada en Git para mantener control de versiones.  
